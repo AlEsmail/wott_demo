@@ -36,7 +36,7 @@ The way it works is:
 https://github.com/kingl-13/ample-admin-lite
 
 ### Front end live
-https://s3.us-east-2.amazonaws.com/wott33/html/registry.html
+https://s3.us-east-2.amazonaws.com/wotthackdemo/html/registry.html
 
 
 ## Social Media
