@@ -1,6 +1,6 @@
 # Web of Trusted Things
-## WoTT
-Hackathon Demo Repo.
+> WoTT
+> Hackathon Demo Repo
 
 This repo contains the smart contract we have created for the WoTT IOT Token Curated Registry.
 
@@ -15,16 +15,11 @@ https://github.com/kingl-13/ample-admin-lite
 
 
 ## Social Media
-[LinkedIn](https://www.linkedin.com/company/wott/)
+[LinkedIn](https://www.linkedin.com/company/wott/)<br>
 [Crunchbase](https://www.crunchbase.com/organization/wott-io)
 
 
- __      __           ___________ ___________ 
-/  \    /  \   ____   \__    ___/ \__    ___/ 
-\   \/\/   /  /  _ \    |    |      |    |    
- \        /  (  <_> )   |    |      |    |    
-  \__/\  /    \____/    |____|      |____|    
-       \/                                     
+--                                    
 
                        
                        
