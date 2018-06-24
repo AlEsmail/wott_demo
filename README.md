@@ -1,4 +1,4 @@
-# World of Trusted Things
+# Web of Trusted Things
 ## WoTT
 Hackathon Demo Repo.
 
@@ -12,6 +12,11 @@ https://rinkeby.etherscan.io/address/0xb3da90babe7dfe8e76c6ea220acc3d9bfb125800
 
 ## Front End Repo
 https://github.com/kingl-13/ample-admin-lite
+
+
+## Social Media
+[LinkedIn](https://www.linkedin.com/company/wott/)
+[Crunchbase](https://www.crunchbase.com/organization/wott-io)
 
 
  __      __           ___________ ___________ 
