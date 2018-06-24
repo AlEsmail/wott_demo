@@ -26,9 +26,9 @@ The way it works is:
 
 6. The value of the tokens and the marketplace is what enforces rational/honest behaviour
 
-6.1 Misbehaving hackers will hurt the usefulness of the registry, which reduces participation by manufacturers and lowers the value of their token rewards
+    * Misbehaving hackers will hurt the usefulness of the registry, which reduces participation by manufacturers and lowers the value of their token rewards
 
-6.2 Misbehaving manufacturers will reduce participation by hackers which reduces the quality of the program and gets them worse talent
+    * Misbehaving manufacturers will reduce participation by hackers which reduces the quality of the program and gets them worse talent
 
 
 ## FRONTEND
